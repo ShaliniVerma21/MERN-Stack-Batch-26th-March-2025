@@ -1,1 +1,1 @@
-# ReactJS-Batch-26th-March-2025
+# MERN-Stack-Batch-26th-March-2025

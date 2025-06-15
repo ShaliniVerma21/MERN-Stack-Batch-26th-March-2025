@@ -125,20 +125,35 @@ All include **Authentication, Authorization, Protected Routes, and DB Integratio
 
 ---
 
-## 🚀 How to Get Started
+## 💡 Interview Questions:
 
-```bash
-# Clone the repository
+
+1. Explain Virtual DOM in React.js.
+
+2. What is middleware in Express.js?
+
+3. Difference between SQL and NoSQL databases.
+
+4. How does JWT authentication work?
+
+5. Explain event loop in Node.js.
+
+6. How is MongoDB different from MySQL?
+
+...and 150+ important MERN-stack interview questions!
+
+
+
+## 🚀 How to Use:
+
+1. Clone the repository:
 git clone https://github.com/ShaliniVerma21/MERN-Stack-Programs.git
 
-# Navigate to the project folder
-cd MERN-Stack-Programs
-
-# Explore day-wise or topic-wise folders
-# Run projects and experiment for practice 
-# Run and modify projects for deeper understanding.
-# Practice exercises, assignments, and build projects.
-
+3. Explore day-wise or topic-wise folders.
+   
+4. Run and modify projects for deeper understanding.
+   
+5. Practice exercises, assignments, and build projects.
 
 
 #### 🌈 Start your MERN Stack Journey today! Practice, Experiment, Build, and Succeed! 🌟

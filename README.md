@@ -9,10 +9,15 @@
 Welcome to the **MERN Stack Mastery Repository** – your one-stop destination for becoming a full-stack web developer using **MongoDB, Express.js, React.js, and Node.js**.  
 
 This repository is designed for:
+
 🎓 **Students**
+
 💼 **Aspiring Developers**
+
 🧠 **Tech Enthusiasts**
+
 📊 **Job Seekers & Interns**
+
 
 Learn and build modern web apps step-by-step through **hands-on coding, real-world projects**, and **interview-level preparation**.
 

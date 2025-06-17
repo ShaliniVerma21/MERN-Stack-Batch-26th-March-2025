@@ -1,0 +1,21 @@
+/* index.css */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 100vh;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
+}

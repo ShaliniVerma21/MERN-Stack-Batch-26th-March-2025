@@ -1,0 +1,70 @@
+/* App.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #282c34;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #61dafb;
+  }
+  
+  h1, h2, h3 {
+    color: #222;
+    margin-bottom: 12px;
+  }
+  
+  p, li {
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  button {
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #005fa3;
+  }
+  
+  input, select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 6px;
+  }
+  
+  form {
+    max-width: 400px;
+    margin-top: 20px;
+  }
+  
